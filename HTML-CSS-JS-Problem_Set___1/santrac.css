@@ -1,0 +1,24 @@
+#bacground-colar {
+    background-color: grey;
+}
+#board{
+    position: relative;
+
+}
+.square{
+   text-align: center;
+}
+.square_black{
+    background: black;
+    width: 100px;
+    height: 100px;
+    float:left;
+    color:white;
+}
+.square_white{
+    background: white;
+    width: 100px;
+    height: 100px;
+    float:left;
+    color:black;
+}
